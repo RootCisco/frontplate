@@ -1,18 +1,15 @@
-# frontplate
+# frontplate-custom
 
-フロントエンド開発の効率を上げるテンプレート
+こちらのテンプレートに少し変更を加えたものです。
 
-[CHANGELOG](https://github.com/frontainer/frontplate/blob/master/CHANGELOG.md)
+フロントエンド開発の効率を上げるテンプレート<br>
+https://github.com/frontainer/frontplate
 
-[過去バージョン](https://github.com/frontainer/frontplate/releases)
+<br>
 
-## Dependence
+## License
+MIT License.
 
-* [NodeJS](https://nodejs.org/) 5.0以上
-* [frontplate-cli](https://www.npmjs.com/package/frontplate-cli) 3.0以上
-
-## Usage
-
-詳しくは[wiki](https://github.com/frontainer/frontplate-cli/wiki)を参照ください
-
-https://github.com/frontainer/frontplate-cli/wiki
+Copyright (c) 2015 frontainer<br>
+Released under the MIT license<br>
+http://opensource.org/licenses/mit-license.php
