@@ -1,5 +1,5 @@
 # frontplate-custom-es
-**ejs, sassベースのテンプレート。**
+**ejs, sassベースのテンプレート。**
 
       ejs v2.6.1
       node-sass v4.9
